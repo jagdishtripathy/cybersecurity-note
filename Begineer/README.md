@@ -23,7 +23,7 @@ Welcome! This guide will help you install **Kali Linux** on **Windows** using tw
 
 - **VMware Workstation Player (Free for personal use):**
 
-  👉 [Download VMware](https://knowledge.broadcom.com/external/article?articleNumber=368667)
+  👉 [Download VMware](https://knowledge.broadcom.com/)
 
 - **Kali Linux VMware Image (Prebuilt):**
 
