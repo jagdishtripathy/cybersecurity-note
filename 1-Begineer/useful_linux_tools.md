@@ -138,7 +138,7 @@ hydra -l admin -P passwords.txt ftp://192.168.1.10
 
 9\. **sqlmap** - Automated SQL Injection Tool
 ---------------------------------------------
-
+![sqlmap](tools-screenshot/sqlmap.png)
 -   **Purpose:** Find and exploit SQL injection vulnerabilities.
 
 -   **Use-case:** Test web apps for SQL injection.
@@ -152,7 +152,7 @@ sqlmap -u "http://target.com/page?id=1" --dbs
 
 10\. **gobuster** - Directory/File Brute Forcing
 ------------------------------------------------
-
+![gobuster](tools-screenshot/gobuster.png)
 -   **Purpose:** Discover hidden directories and files on websites.
 
 -   **Use-case:** Web reconnaissance.
@@ -166,7 +166,7 @@ gobuster dir -u http://target.com -w wordlist.txt
 
 11\. **hashcat** - Advanced Password Cracker
 --------------------------------------------
-
+![hashcat](tools-screenshot/hashcat.png)
 -   **Purpose:** Crack password hashes using GPU acceleration.
 
 -   **Use-case:** Large scale password cracking.
@@ -194,7 +194,7 @@ airmon-ng start wlan0
 
 13\. **nikto** - Web Server Vulnerability Scanner
 -------------------------------------------------
-
+![nikto](tools-screenshot/nikto.png)
 -   **Purpose:** Scan web servers for known vulnerabilities.
 
 -   **Use-case:** Test web server security.
