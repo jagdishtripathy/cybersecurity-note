@@ -131,7 +131,7 @@ cyber-notes/\
 ├── web-attacks/\
 ├── ctf-writeups/
 
- `Share your progress on GitHub or LinkedIn --- it helps in interviews and learning.
+ Share your progress on GitHub or LinkedIn --- it helps in interviews and learning.
 
 ---
 ## ✅ Final Advice
